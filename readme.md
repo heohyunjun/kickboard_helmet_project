@@ -15,8 +15,8 @@
 
 
 
-## 2.아이디어 프레임워크
-![image](readme_image/idea.png)
+## 2.시퀀스 다이어그램
+![image](readme_image/sequence.jpg)
 
 
 
@@ -32,6 +32,16 @@
 
 
 ---
+
+## 3. 설계
+
+![image](readme_image/process.jpg)
+
+
+
+---
+
+
 
 
 
@@ -49,5 +59,5 @@
 
 ## 5. 기대효과
 
-![image](readme_image/expect.png)
+![image](readme_image/expect.jpg)
 
