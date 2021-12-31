@@ -16,7 +16,7 @@
 
 
 ## 2.시퀀스 다이어그램
-![image](readme_image/sequence.jpg)
+![image](readme_image/sequence.png)
 
 
 
@@ -35,7 +35,7 @@
 
 ## 3. 설계
 
-![image](readme_image/process.jpg)
+![image](readme_image/process.png)
 
 
 
@@ -59,5 +59,5 @@
 
 ## 5. 기대효과
 
-![image](readme_image/expect.jpg)
+![image](readme_image/expect.png)
 
